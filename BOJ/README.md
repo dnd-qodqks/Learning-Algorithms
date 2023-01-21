@@ -9,3 +9,6 @@
 
 #### [BOJ_2501](https://www.acmicpc.net/problem/2501) - 약수 구하기
 - 기본적인 정렬만 알고 있어도 풀이가 가능하다.
+
+#### [BOJ_3460](https://www.acmicpc.net/problem/3460) - 이진수
+- 조건 확인 순서에 따라 채점 결과가 달라짐. 그러나 정확한 이유를 찾지 못함.
