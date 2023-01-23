@@ -12,3 +12,6 @@
 
 #### [BOJ_3460](https://www.acmicpc.net/problem/3460) - 이진수
 - 조건 확인 순서에 따라 채점 결과가 달라짐. 그러나 정확한 이유를 찾지 못함.
+
+#### [BOJ_10818](https://www.acmicpc.net/problem/10818) - 최소, 최대
+- 최솟값과 최댓값만 출력하면 되기 때문에 특별한 sorting 알고리즘이 필요하지 않다.
