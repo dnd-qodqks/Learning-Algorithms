@@ -15,3 +15,6 @@
 
 #### [BOJ_10818](https://www.acmicpc.net/problem/10818) - 최소, 최대
 - 최솟값과 최댓값만 출력하면 되기 때문에 특별한 sorting 알고리즘이 필요하지 않다.
+
+#### [BOJ_2460](https://www.acmicpc.net/problem/2460) - 지능형 기차 2
+- 큰 어려움 없는 간단한 문제이다.
