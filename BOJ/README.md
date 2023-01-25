@@ -18,3 +18,6 @@
 
 #### [BOJ_2460](https://www.acmicpc.net/problem/2460) - 지능형 기차 2
 - 큰 어려움 없는 간단한 문제이다.
+
+#### [BOJ_10870](https://www.acmicpc.net/problem/10870) - 피보나치 수 5
+- 재귀함수를 활용하면 간단한 문제이다.
