@@ -21,3 +21,6 @@
 
 #### [BOJ_10870](https://www.acmicpc.net/problem/10870) - 피보나치 수 5
 - 재귀함수를 활용하면 간단한 문제이다.
+
+#### [BOJ_2309](https://www.acmicpc.net/problem/2309) - 일곱 난쟁이
+- 경우의 수를 줄일 수 있는 방법을 생각해야 한다.
