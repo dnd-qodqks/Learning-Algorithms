@@ -24,3 +24,7 @@
 
 #### [BOJ_2309](https://www.acmicpc.net/problem/2309) - 일곱 난쟁이
 - 경우의 수를 줄일 수 있는 방법을 생각해야 한다.
+
+
+#### [BOJ_2609](https://www.acmicpc.net/problem/2609) - 최대공약수와 최소공배수
+- 유클리드 호제법을 활용하여 계산해야 한다.
