@@ -28,3 +28,6 @@
 
 #### [BOJ_2609](https://www.acmicpc.net/problem/2609) - 최대공약수와 최소공배수
 - 유클리드 호제법을 활용하여 계산해야 한다.
+
+#### [BOJ_2693](https://www.acmicpc.net/problem/2693) - N번째 큰 수
+- 오름차순인지 내림차순인지 구분 잘하자.
