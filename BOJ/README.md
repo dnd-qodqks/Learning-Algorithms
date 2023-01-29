@@ -32,5 +32,5 @@
 #### [BOJ_2693](https://www.acmicpc.net/problem/2693) - N번째 큰 수
 - 오름차순인지 내림차순인지 구분 잘하자.
 
-#### [BOJ_1978](https://www.acmicpc.net/problem/1978) - N번째 큰 수
+#### [BOJ_1978](https://www.acmicpc.net/problem/1978) - 소수 찾기
 - 소수를 판별하는 다양한 방법을 생각해보자.
