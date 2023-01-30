@@ -34,3 +34,6 @@
 
 #### [BOJ_1978](https://www.acmicpc.net/problem/1978) - 소수 찾기
 - 소수를 판별하는 다양한 방법을 생각해보자.
+
+#### [BOJ_1292](https://www.acmicpc.net/problem/1292) - 쉽게 푸는 문제
+- vector와 같이 동적 할당을 자동으로 해주는 자료구조를 활용하면 쉬운 것 같다.
